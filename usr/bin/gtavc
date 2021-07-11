@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+scriptdir="/usr/lib/gtavc"
+export LD_LIBRARY_PATH="${scriptdir}"/lib
+#export libglew="${scriptdir}"/lib/libGLEW.so.2.0
+
+cd "${scriptdir}" || exit 1
+
+exec ./reVC

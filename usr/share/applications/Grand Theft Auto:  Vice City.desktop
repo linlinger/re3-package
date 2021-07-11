@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment[en_US]=Grand Theft Auto:  Vice City
+Comment[zh_CN]=
+Comment=Grand Theft Auto:  Vice City
+Exec=sudo /usr/bin/gtavc
+GenericName[en_US]=Grand Theft Auto:  Vice City using reVC
+GenericName[zh_CN]=Grand Theft Auto:  Vice City using reVC
+GenericName=Grand Theft Auto:  Vice City using reVC
+Icon=/usr/share/gtavc/app.ico
+Name[en_US]=Grand Theft Auto: Vice City
+name[zh_CN]=
+Name=Grand Theft Auto: Vice City
+StartupNotify=true
+Terminal=true
+Type=Application
